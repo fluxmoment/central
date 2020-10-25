@@ -1,6 +1,6 @@
 {
-  servers: [
-    'seep-server-1.fluxmoment.com',
-    'seep-server-2.fluxmoment.com',
+  "servers": [
+    "seep-server-1.fluxmoment.com",
+    "seep-server-2.fluxmoment.com",
   ]
 }
